@@ -1,4 +1,3 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 
 int main() {
@@ -8,7 +7,6 @@ int main() {
    
     spaces=n;
     stars=1;
-    // Write C code here
     for(int i=1;i<=n;i++){
         for(int m=1;m<=spaces;m++){
             printf(" ");
